@@ -64,7 +64,7 @@
 // console.log("oi")
 // Promise.all([p1,p2,p3]).then((values) => console.log(values));
 
-console.log("oi");
+
 
 
 
