@@ -19,6 +19,14 @@
 // -> getElementsByClassName;
 // -> querySelector;
 
-console.log(document.getElementsbyTagName("h1")); // esta forma nao funciona, 
+// console.log(document.getElementsbyTagName("h1")); // esta forma nao funciona, 
 //só funciona chamando diretamente no console.
+
+// console.log(document.getElementsByClassName("apresentacao")); //primeiro que deu certo chamar por aqui
+
+//console.log(document.querySelector('#primeira-div')); - este so funcionou puxando direto do console 
+//para diferenciar qual div eu quero, preciso mudar o nome da div 
+// colocando um id 
+
+//----------------Alterando o HTML-----------------------
 
